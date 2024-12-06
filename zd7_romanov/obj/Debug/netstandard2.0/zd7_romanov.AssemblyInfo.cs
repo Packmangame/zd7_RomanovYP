@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("zd7_romanov")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3388275855122869ba907954d57973ee267d918")]
 [assembly: System.Reflection.AssemblyProductAttribute("zd7_romanov")]
 [assembly: System.Reflection.AssemblyTitleAttribute("zd7_romanov")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

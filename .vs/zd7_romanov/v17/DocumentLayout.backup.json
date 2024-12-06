@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\st310-10\\source\\repos\\zd7_romanov\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B72332A4-9DCD-428A-9DF2-EF4B3E27E073}|zd7_romanov\\zd7_romanov.csproj|c:\\users\\st310-10\\source\\repos\\zd7_romanov\\zd7_romanov\\registerscreen.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{B72332A4-9DCD-428A-9DF2-EF4B3E27E073}|zd7_romanov\\zd7_romanov.csproj|solutionrelative:zd7_romanov\\registerscreen.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+      "AbsoluteMoniker": "D:0:0:{B72332A4-9DCD-428A-9DF2-EF4B3E27E073}|zd7_romanov\\zd7_romanov.csproj|c:\\users\\st310-10\\source\\repos\\zd7_romanov\\zd7_romanov\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72332A4-9DCD-428A-9DF2-EF4B3E27E073}|zd7_romanov\\zd7_romanov.csproj|solutionrelative:zd7_romanov\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72332A4-9DCD-428A-9DF2-EF4B3E27E073}|zd7_romanov\\zd7_romanov.csproj|c:\\users\\st310-10\\source\\repos\\zd7_romanov\\zd7_romanov\\button2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72332A4-9DCD-428A-9DF2-EF4B3E27E073}|zd7_romanov\\zd7_romanov.csproj|solutionrelative:zd7_romanov\\button2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72332A4-9DCD-428A-9DF2-EF4B3E27E073}|zd7_romanov\\zd7_romanov.csproj|c:\\users\\st310-10\\source\\repos\\zd7_romanov\\zd7_romanov\\button2.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{B72332A4-9DCD-428A-9DF2-EF4B3E27E073}|zd7_romanov\\zd7_romanov.csproj|solutionrelative:zd7_romanov\\button2.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B72332A4-9DCD-428A-9DF2-EF4B3E27E073}|zd7_romanov\\zd7_romanov.csproj|c:\\users\\st310-10\\source\\repos\\zd7_romanov\\zd7_romanov\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
       "RelativeMoniker": "D:0:0:{B72332A4-9DCD-428A-9DF2-EF4B3E27E073}|zd7_romanov\\zd7_romanov.csproj|solutionrelative:zd7_romanov\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B72332A4-9DCD-428A-9DF2-EF4B3E27E073}|zd7_romanov\\zd7_romanov.csproj|c:\\users\\st310-10\\source\\repos\\zd7_romanov\\zd7_romanov\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B72332A4-9DCD-428A-9DF2-EF4B3E27E073}|zd7_romanov\\zd7_romanov.csproj|solutionrelative:zd7_romanov\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B72332A4-9DCD-428A-9DF2-EF4B3E27E073}|zd7_romanov\\zd7_romanov.csproj|c:\\users\\st310-10\\source\\repos\\zd7_romanov\\zd7_romanov\\registerscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72332A4-9DCD-428A-9DF2-EF4B3E27E073}|zd7_romanov\\zd7_romanov.csproj|solutionrelative:zd7_romanov\\registerscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72332A4-9DCD-428A-9DF2-EF4B3E27E073}|zd7_romanov\\zd7_romanov.csproj|c:\\users\\st310-10\\source\\repos\\zd7_romanov\\zd7_romanov\\button1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{B72332A4-9DCD-428A-9DF2-EF4B3E27E073}|zd7_romanov\\zd7_romanov.csproj|solutionrelative:zd7_romanov\\button1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{403A4DD7-A67A-4142-9496-8FD3FE20D52F}|zd7_romanov.Android\\zd7_romanov.Android.csproj|c:\\users\\st310-10\\source\\repos\\zd7_romanov\\zd7_romanov.android\\assets\\aboutassets.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{403A4DD7-A67A-4142-9496-8FD3FE20D52F}|zd7_romanov.Android\\zd7_romanov.Android.csproj|solutionrelative:zd7_romanov.android\\assets\\aboutassets.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B72332A4-9DCD-428A-9DF2-EF4B3E27E073}|zd7_romanov\\zd7_romanov.csproj|c:\\users\\st310-10\\source\\repos\\zd7_romanov\\zd7_romanov\\mystyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -26,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 1131,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,39 +62,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RegisterScreen.xaml",
-              "DocumentMoniker": "C:\\Users\\st310-10\\source\\repos\\zd7_romanov\\zd7_romanov\\RegisterScreen.xaml",
-              "RelativeDocumentMoniker": "zd7_romanov\\RegisterScreen.xaml",
-              "ToolTip": "C:\\Users\\st310-10\\source\\repos\\zd7_romanov\\zd7_romanov\\RegisterScreen.xaml*",
-              "RelativeToolTip": "zd7_romanov\\RegisterScreen.xaml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-06T08:48:32.507Z",
+              "DocumentIndex": 1,
+              "Title": "Button2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-10\\source\\repos\\zd7_romanov\\zd7_romanov\\Button2.xaml.cs",
+              "RelativeDocumentMoniker": "zd7_romanov\\Button2.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-10\\source\\repos\\zd7_romanov\\zd7_romanov\\Button2.xaml.cs",
+              "RelativeToolTip": "zd7_romanov\\Button2.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T11:13:16.749Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Button2.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-10\\source\\repos\\zd7_romanov\\zd7_romanov\\Button2.xaml",
+              "RelativeDocumentMoniker": "zd7_romanov\\Button2.xaml",
+              "ToolTip": "C:\\Users\\st310-10\\source\\repos\\zd7_romanov\\zd7_romanov\\Button2.xaml",
+              "RelativeToolTip": "zd7_romanov\\Button2.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-06T11:03:05.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Button1.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-10\\source\\repos\\zd7_romanov\\zd7_romanov\\Button1.xaml",
+              "RelativeDocumentMoniker": "zd7_romanov\\Button1.xaml",
+              "ToolTip": "C:\\Users\\st310-10\\source\\repos\\zd7_romanov\\zd7_romanov\\Button1.xaml",
+              "RelativeToolTip": "zd7_romanov\\Button1.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-06T11:02:46.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AboutAssets.txt",
+              "DocumentMoniker": "C:\\Users\\st310-10\\source\\repos\\zd7_romanov\\zd7_romanov.Android\\Assets\\AboutAssets.txt",
+              "RelativeDocumentMoniker": "zd7_romanov.Android\\Assets\\AboutAssets.txt",
+              "ToolTip": "C:\\Users\\st310-10\\source\\repos\\zd7_romanov\\zd7_romanov.Android\\Assets\\AboutAssets.txt",
+              "RelativeToolTip": "zd7_romanov.Android\\Assets\\AboutAssets.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-06T10:52:48.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterScreen.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-10\\source\\repos\\zd7_romanov\\zd7_romanov\\RegisterScreen.xaml.cs",
+              "RelativeDocumentMoniker": "zd7_romanov\\RegisterScreen.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-10\\source\\repos\\zd7_romanov\\zd7_romanov\\RegisterScreen.xaml.cs",
+              "RelativeToolTip": "zd7_romanov\\RegisterScreen.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T10:06:37.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\st310-10\\source\\repos\\zd7_romanov\\zd7_romanov\\MainPage.xaml",
               "RelativeDocumentMoniker": "zd7_romanov\\MainPage.xaml",
               "ToolTip": "C:\\Users\\st310-10\\source\\repos\\zd7_romanov\\zd7_romanov\\MainPage.xaml",
               "RelativeToolTip": "zd7_romanov\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABIAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADEAAAC8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-12-06T05:48:57.297Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\st310-10\\source\\repos\\zd7_romanov\\zd7_romanov\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "zd7_romanov\\MainPage.xaml.cs",
               "ToolTip": "C:\\Users\\st310-10\\source\\repos\\zd7_romanov\\zd7_romanov\\MainPage.xaml.cs",
               "RelativeToolTip": "zd7_romanov\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBAAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T08:06:01.961Z",
               "EditorCaption": ""
@@ -91,13 +159,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "mystyles.css",
               "DocumentMoniker": "C:\\Users\\st310-10\\source\\repos\\zd7_romanov\\zd7_romanov\\mystyles.css",
               "RelativeDocumentMoniker": "zd7_romanov\\mystyles.css",
               "ToolTip": "C:\\Users\\st310-10\\source\\repos\\zd7_romanov\\zd7_romanov\\mystyles.css",
               "RelativeToolTip": "zd7_romanov\\mystyles.css",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-12-06T08:00:02.906Z",
               "EditorCaption": ""

@@ -636,3 +636,8 @@ C:\Users\st310-10\source\repos\zd7_romanov\zd7_romanov.Android\obj\Debug\130\sta
 C:\Users\st310-10\source\repos\zd7_romanov\zd7_romanov.Android\obj\Debug\130\stamp\_GenerateJavaStubs.stamp
 C:\Users\st310-10\source\repos\zd7_romanov\zd7_romanov.Android\obj\Debug\130\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\st310-10\source\repos\zd7_romanov\zd7_romanov.Android\obj\Debug\130\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\st310-10\source\repos\zd7_romanov\zd7_romanov.Android\obj\Debug\130\res\drawable\dvs.jpg
+C:\Users\st310-10\source\repos\zd7_romanov\zd7_romanov.Android\obj\Debug\130\res\drawable\korb.jpg
+C:\Users\st310-10\source\repos\zd7_romanov\zd7_romanov.Android\obj\Debug\130\res\drawable\korobka.jpg
+C:\Users\st310-10\source\repos\zd7_romanov\zd7_romanov.Android\obj\Debug\130\res\drawable\maslo.jpg
+C:\Users\st310-10\source\repos\zd7_romanov\zd7_romanov.Android\obj\Debug\130\res\drawable\shini.jpg

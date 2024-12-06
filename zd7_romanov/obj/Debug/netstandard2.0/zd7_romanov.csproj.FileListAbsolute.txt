@@ -15,3 +15,8 @@ C:\Users\st310-10\source\repos\zd7_romanov\zd7_romanov\obj\Debug\netstandard2.0\
 C:\Users\st310-10\source\repos\zd7_romanov\zd7_romanov\obj\Debug\netstandard2.0\zd7_romanov.pdb
 C:\Users\st310-10\source\repos\zd7_romanov\zd7_romanov\obj\Debug\netstandard2.0\RegisterScreen.xaml.g.cs
 C:\Users\st310-10\source\repos\zd7_romanov\zd7_romanov\obj\Debug\netstandard2.0\mystyles.css.g.cs
+C:\Users\st310-10\source\repos\zd7_romanov\zd7_romanov\obj\Debug\netstandard2.0\zd7_romanov.sourcelink.json
+C:\Users\st310-10\source\repos\zd7_romanov\zd7_romanov\obj\Debug\netstandard2.0\zd7_romanov.Properties.Resources.resources
+C:\Users\st310-10\source\repos\zd7_romanov\zd7_romanov\obj\Debug\netstandard2.0\zd7_romanov.csproj.GenerateResource.cache
+C:\Users\st310-10\source\repos\zd7_romanov\zd7_romanov\obj\Debug\netstandard2.0\Button1.xaml.g.cs
+C:\Users\st310-10\source\repos\zd7_romanov\zd7_romanov\obj\Debug\netstandard2.0\Button2.xaml.g.cs

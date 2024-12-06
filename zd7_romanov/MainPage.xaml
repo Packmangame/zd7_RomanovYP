@@ -6,20 +6,51 @@
     <ContentPage.Resources>
         <StyleSheet Source="mystyles.css"/>
     </ContentPage.Resources>
-    <StackLayout>
-        <Frame  Padding="2" CornerRadius="0">
-            <Label Text="Онлайн-техобслуживание (техосмотр)" HorizontalTextAlignment="Center" StyleClass="titles"/>
-        </Frame>
+    <ScrollView>
+        
         <StackLayout>
             
-            <Entry  x:Name="adres" StyleClass="entreys" Placeholder="Логин"/>
-            <Entry x:Name="PhoneNumb" StyleClass="entreys" Placeholder="PhoneNumb"/>
+            <Frame  Padding="2" CornerRadius="0">
+                <Label Text="Онлайн-техобслуживание (техосмотр)" HorizontalTextAlignment="Center" StyleClass="titles"/>
+            </Frame>
+            <StackLayout>
+
+                <Entry x:Name="adres" StyleClass="entreys" Placeholder="Адрес"/>
+                <Entry x:Name="PhoneNumb" StyleClass="entreys" Placeholder="Телефон"/>
+                <Entry x:Name="oklad" StyleClass="entreys" Placeholder="Оклад"/>
+                <Entry x:Name="MarkAvto" StyleClass="entreys" Placeholder="Марка Автомобиля"/>
+                <Entry x:Name="Probeg" StyleClass="entreys" Placeholder="Пробег"/>
+                <Entry x:Name="FIO" StyleClass="entreys" Placeholder="ФИО Владельца"/>
+                <Entry x:Name="TehPassport" StyleClass="entreys" Placeholder="WIN номер"/>
+                <StackLayout Orientation="Horizontal">
+                    <Label Padding="10" Text="Год выпуска:" FontSize="14" TextColor="Gray" HorizontalTextAlignment="Start"/>
+                    <DatePicker  Margin="0,0,150,0" x:Name="GodVip" HorizontalOptions="FillAndExpand"/>
+                </StackLayout>
+                <Entry x:Name="Price" StyleClass="entreys" Placeholder="Стоимость"/>
+                
+                <StackLayout Orientation="Horizontal">
+                    <Label Padding="10" Text="Дата поступления:" FontSize="14" TextColor="Gray" HorizontalTextAlignment="Start"/>
+                    <DatePicker x:Name="dateStart" HorizontalOptions="FillAndExpand" Margin="0,0,150,0"/>
+                </StackLayout>
+                
+                <StackLayout Orientation="Horizontal">
+                    <Label Padding="10" Text="Дата окончания:" FontSize="14" TextColor="Gray" HorizontalTextAlignment="Start"/>
+                    <DatePicker Margin="0,0,150,0" x:Name="dateEnd" HorizontalOptions="FillAndExpand"/>
+                </StackLayout>
+                <Label x:Name="SrokIspoln" StyleClass="strings" Text="Срок исполнения"/>
+
+                <Picker x:Name="items" StyleClass="entreys" SelectedIndexChanged="items_SelectedIndexChanged"/>
+                <StackLayout>
+                    <Image x:Name="Image" />
+                </StackLayout>
+
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" >
+                <Button CornerRadius="5" Text="Выбор срока исполнения" WidthRequest="150" HorizontalOptions="FillAndExpand" BackgroundColor="Aquamarine" Clicked="Button_Clicked"/>
+                <Button CornerRadius="5" Text="Расчет стоимости техоблуживания" WidthRequest="150" HorizontalOptions="FillAndExpand" BackgroundColor="Aquamarine" Clicked="Button_Clicked_1"/>
+            </StackLayout>
         </StackLayout>
-        <StackLayout Orientation="Horizontal" Margin="0,430">
-            <Button Text="Выбор срока исполнения" WidthRequest="150" HorizontalOptions="FillAndExpand" BackgroundColor="Aquamarine"/>
-            <Button Text="Расчет стоимости техоблуживания" WidthRequest="150" HorizontalOptions="FillAndExpand" BackgroundColor="Aquamarine"/>
-        </StackLayout>
-    </StackLayout>
- 
+    </ScrollView>
+
 
 </ContentPage>
