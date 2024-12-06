@@ -1,0 +1,17 @@
+C:\Users\st310-10\source\repos\zd7_romanov\zd7_romanov\bin\Debug\netstandard2.0\zd7_romanov.deps.json
+C:\Users\st310-10\source\repos\zd7_romanov\zd7_romanov\bin\Debug\netstandard2.0\zd7_romanov.dll
+C:\Users\st310-10\source\repos\zd7_romanov\zd7_romanov\bin\Debug\netstandard2.0\ref\zd7_romanov.dll
+C:\Users\st310-10\source\repos\zd7_romanov\zd7_romanov\bin\Debug\netstandard2.0\zd7_romanov.pdb
+C:\Users\st310-10\source\repos\zd7_romanov\zd7_romanov\obj\Debug\netstandard2.0\zd7_romanov.csproj.AssemblyReference.cache
+C:\Users\st310-10\source\repos\zd7_romanov\zd7_romanov\obj\Debug\netstandard2.0\zd7_romanov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st310-10\source\repos\zd7_romanov\zd7_romanov\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\st310-10\source\repos\zd7_romanov\zd7_romanov\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\st310-10\source\repos\zd7_romanov\zd7_romanov\obj\Debug\netstandard2.0\zd7_romanov.AssemblyInfoInputs.cache
+C:\Users\st310-10\source\repos\zd7_romanov\zd7_romanov\obj\Debug\netstandard2.0\zd7_romanov.AssemblyInfo.cs
+C:\Users\st310-10\source\repos\zd7_romanov\zd7_romanov\obj\Debug\netstandard2.0\zd7_romanov.csproj.CoreCompileInputs.cache
+C:\Users\st310-10\source\repos\zd7_romanov\zd7_romanov\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\st310-10\source\repos\zd7_romanov\zd7_romanov\obj\Debug\netstandard2.0\zd7_romanov.dll
+C:\Users\st310-10\source\repos\zd7_romanov\zd7_romanov\obj\Debug\netstandard2.0\refint\zd7_romanov.dll
+C:\Users\st310-10\source\repos\zd7_romanov\zd7_romanov\obj\Debug\netstandard2.0\zd7_romanov.pdb
+C:\Users\st310-10\source\repos\zd7_romanov\zd7_romanov\obj\Debug\netstandard2.0\RegisterScreen.xaml.g.cs
+C:\Users\st310-10\source\repos\zd7_romanov\zd7_romanov\obj\Debug\netstandard2.0\mystyles.css.g.cs

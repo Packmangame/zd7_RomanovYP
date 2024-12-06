@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\st310-10\\source\\repos\\zd7_romanov\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B72332A4-9DCD-428A-9DF2-EF4B3E27E073}|zd7_romanov\\zd7_romanov.csproj|c:\\users\\st310-10\\source\\repos\\zd7_romanov\\zd7_romanov\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{B72332A4-9DCD-428A-9DF2-EF4B3E27E073}|zd7_romanov\\zd7_romanov.csproj|solutionrelative:zd7_romanov\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72332A4-9DCD-428A-9DF2-EF4B3E27E073}|zd7_romanov\\zd7_romanov.csproj|c:\\users\\st310-10\\source\\repos\\zd7_romanov\\zd7_romanov\\registerscreen.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{B72332A4-9DCD-428A-9DF2-EF4B3E27E073}|zd7_romanov\\zd7_romanov.csproj|solutionrelative:zd7_romanov\\registerscreen.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72332A4-9DCD-428A-9DF2-EF4B3E27E073}|zd7_romanov\\zd7_romanov.csproj|c:\\users\\st310-10\\source\\repos\\zd7_romanov\\zd7_romanov\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72332A4-9DCD-428A-9DF2-EF4B3E27E073}|zd7_romanov\\zd7_romanov.csproj|solutionrelative:zd7_romanov\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72332A4-9DCD-428A-9DF2-EF4B3E27E073}|zd7_romanov\\zd7_romanov.csproj|c:\\users\\st310-10\\source\\repos\\zd7_romanov\\zd7_romanov\\mystyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B72332A4-9DCD-428A-9DF2-EF4B3E27E073}|zd7_romanov\\zd7_romanov.csproj|solutionrelative:zd7_romanov\\mystyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 1131,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:365008427:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterScreen.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-10\\source\\repos\\zd7_romanov\\zd7_romanov\\RegisterScreen.xaml",
+              "RelativeDocumentMoniker": "zd7_romanov\\RegisterScreen.xaml",
+              "ToolTip": "C:\\Users\\st310-10\\source\\repos\\zd7_romanov\\zd7_romanov\\RegisterScreen.xaml",
+              "RelativeToolTip": "zd7_romanov\\RegisterScreen.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-06T08:48:32.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-10\\source\\repos\\zd7_romanov\\zd7_romanov\\MainPage.xaml",
+              "RelativeDocumentMoniker": "zd7_romanov\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\st310-10\\source\\repos\\zd7_romanov\\zd7_romanov\\MainPage.xaml",
+              "RelativeToolTip": "zd7_romanov\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-06T05:48:57.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-10\\source\\repos\\zd7_romanov\\zd7_romanov\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "zd7_romanov\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-10\\source\\repos\\zd7_romanov\\zd7_romanov\\MainPage.xaml.cs",
+              "RelativeToolTip": "zd7_romanov\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:06:01.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 445,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mystyles.css",
+              "DocumentMoniker": "C:\\Users\\st310-10\\source\\repos\\zd7_romanov\\zd7_romanov\\mystyles.css",
+              "RelativeDocumentMoniker": "zd7_romanov\\mystyles.css",
+              "ToolTip": "C:\\Users\\st310-10\\source\\repos\\zd7_romanov\\zd7_romanov\\mystyles.css",
+              "RelativeToolTip": "zd7_romanov\\mystyles.css",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-06T08:00:02.906Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+﻿.titles 
+{
+    color:blue;
+    font-weight:bold;
+    font-size:32;
+}
+
+.strings {
+    color:black;
+    font-size:14;
+    margin:11,0;
+}
+
+.entreys {
+    color: black;
+    font-size: 14;
+    margin: 11,0,150,0;
+}

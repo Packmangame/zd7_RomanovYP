@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="zd7_romanov.RegisterScreen">
+    <ContentPage.Resources>
+        <StyleSheet Source="mystyles.css"/>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        <StackLayout>
+            <Frame BackgroundColor="AliceBlue"  Padding="2" CornerRadius="0">
+                <Label StyleClass="titles"  Text="Регистрация" HorizontalTextAlignment="Center" /> 
+            </Frame>
+            <StackLayout>
+                <Entry  x:Name="log" StyleClass="entreys" Placeholder="Логин"/>
+                <Entry IsPassword="True" x:Name="pas" StyleClass="entreys" Placeholder="Пароль"/>
+                <Button Text="Войти"  BackgroundColor="Aquamarine" Clicked="Button_Clicked" Margin="11,0"/>
+            </StackLayout>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

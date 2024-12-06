@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="zd7_romanov.MainPage">
+    
+    <ContentPage.Resources>
+        <StyleSheet Source="mystyles.css"/>
+    </ContentPage.Resources>
+    <StackLayout>
+        <Frame  Padding="2" CornerRadius="0">
+            <Label Text="Онлайн-техобслуживание (техосмотр)" HorizontalTextAlignment="Center" StyleClass="titles"/>
+        </Frame>
+        <StackLayout>
+            
+            <Entry  x:Name="adres" StyleClass="entreys" Placeholder="Логин"/>
+            <Entry x:Name="PhoneNumb" StyleClass="entreys" Placeholder="PhoneNumb"/>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal" Margin="0,430">
+            <Button Text="Выбор срока исполнения" WidthRequest="150" HorizontalOptions="FillAndExpand" BackgroundColor="Aquamarine"/>
+            <Button Text="Расчет стоимости техоблуживания" WidthRequest="150" HorizontalOptions="FillAndExpand" BackgroundColor="Aquamarine"/>
+        </StackLayout>
+    </StackLayout>
+ 
+
+</ContentPage>
