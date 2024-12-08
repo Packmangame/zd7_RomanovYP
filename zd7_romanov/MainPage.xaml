@@ -21,13 +21,15 @@
                 <Entry x:Name="MarkAvto" StyleClass="entreys" Placeholder="Марка Автомобиля"/>
                 <Entry x:Name="Probeg" StyleClass="entreys" Placeholder="Пробег"/>
                 <Entry x:Name="FIO" StyleClass="entreys" Placeholder="ФИО Владельца"/>
-                <Entry x:Name="TehPassport" StyleClass="entreys" Placeholder="WIN номер"/>
+                <Entry x:Name="WIN" StyleClass="entreys" Placeholder="WIN номер"/>
                 <StackLayout Orientation="Horizontal">
                     <Label Padding="10" Text="Год выпуска:" FontSize="14" TextColor="Gray" HorizontalTextAlignment="Start"/>
                     <DatePicker  Margin="0,0,150,0" x:Name="GodVip" HorizontalOptions="FillAndExpand"/>
                 </StackLayout>
-                <Entry x:Name="Price" StyleClass="entreys" Placeholder="Стоимость"/>
-                
+                <StackLayout Orientation="Horizontal">
+                    <Label  StyleClass="strings" Text="Стоимость техобслуживания:" HorizontalOptions="FillAndExpand"/>
+                    <Label x:Name="Price" StyleClass="strings" Text="1110000000000" HorizontalOptions="FillAndExpand"/>
+                </StackLayout>
                 <StackLayout Orientation="Horizontal">
                     <Label Padding="10" Text="Дата поступления:" FontSize="14" TextColor="Gray" HorizontalTextAlignment="Start"/>
                     <DatePicker x:Name="dateStart" HorizontalOptions="FillAndExpand" Margin="0,0,150,0"/>
@@ -37,9 +39,11 @@
                     <Label Padding="10" Text="Дата окончания:" FontSize="14" TextColor="Gray" HorizontalTextAlignment="Start"/>
                     <DatePicker Margin="0,0,150,0" x:Name="dateEnd" HorizontalOptions="FillAndExpand"/>
                 </StackLayout>
-                <Label x:Name="SrokIspoln" StyleClass="strings" Text="Срок исполнения"/>
-
-                <Picker x:Name="items" StyleClass="entreys" SelectedIndexChanged="items_SelectedIndexChanged"/>
+                <StackLayout Orientation="Horizontal">
+                    <Label StyleClass="strings" Text="Срок исполнения:" HorizontalOptions="FillAndExpand"/>
+                    <Label x:Name="SrokIspoln" StyleClass="strings" Text="321321" HorizontalOptions="FillAndExpand"/>
+                </StackLayout>
+                <Picker x:Name="items" StyleClass="entreys" SelectedIndex="0" SelectedIndexChanged="items_SelectedIndexChanged" />
                 <StackLayout>
                     <Image x:Name="Image" />
                 </StackLayout>

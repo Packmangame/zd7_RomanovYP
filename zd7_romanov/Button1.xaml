@@ -2,11 +2,30 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="zd7_romanov.Button1">
+    <ContentPage.Resources>
+        <StyleSheet Source="mystyles.css"/>
+    </ContentPage.Resources>
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <Frame  Padding="2" CornerRadius="0">
+                <Label Text="Выбор срока исполнения" HorizontalTextAlignment="Center" StyleClass="titles"/>
+                
+            </Frame>
+            <StackLayout>
+                <Picker x:Name="items" StyleClass="entreys"  SelectedIndexChanged="items_SelectedIndexChanged"/>
+                <StackLayout>
+                    <Image x:Name="Image" />
+                </StackLayout>
+                
+                <Label x:Name="Avto" StyleClass="strings" Text="Марка автомобиля"/>
+                <Entry StyleClass="entreys" Placeholder="Коментарий к работе"/>
+                <Entry StyleClass="entreys" Placeholder="Скрок выполнения" x:Name="Srok" TextChanged="Srok_TextChanged"/>
+
+                <StackLayout Orientation="Horizontal" >
+                    <Button CornerRadius="5" Text="Возврат на главную" WidthRequest="150" HorizontalOptions="FillAndExpand" BackgroundColor="Aquamarine" Clicked="Button_Clicked"/>
+                    <Button CornerRadius="5" Text="Расчет стоимости техоблуживания" WidthRequest="150" HorizontalOptions="FillAndExpand" BackgroundColor="Aquamarine" Clicked="Button_Clicked_1"/>
+                </StackLayout>
+            </StackLayout>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

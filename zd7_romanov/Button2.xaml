@@ -2,11 +2,38 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="zd7_romanov.Button2">
+    <ContentPage.Resources>
+        <StyleSheet Source="mystyles.css"/>
+    </ContentPage.Resources>
+
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <Frame  Padding="2" CornerRadius="0">
+                <Label Text="Выбор срока исполнения" HorizontalTextAlignment="Center" StyleClass="titles"/>
+            </Frame>
+            <StackLayout>
+                <StackLayout Orientation="Horizontal" >
+                    <Label Text="Срок исполнения:" HorizontalTextAlignment="Center" StyleClass="strings" HorizontalOptions="FillAndExpand"/>
+                    <Label x:Name="Srok" HorizontalTextAlignment="Center" StyleClass="strings" HorizontalOptions="FillAndExpand"/>
+                </StackLayout>
+                 <StackLayout Orientation="Horizontal" >
+                    <Label  Text="Оклад:" HorizontalTextAlignment="Center" StyleClass="strings" HorizontalOptions="FillAndExpand"/>
+                    <Label x:Name="Oklad"  HorizontalTextAlignment="Center" StyleClass="strings" HorizontalOptions="FillAndExpand"/>
+                </StackLayout>
+                
+                
+
+                <StackLayout Orientation="Horizontal" >
+                    <Label Text="Скидка:" HorizontalTextAlignment="Center" StyleClass="strings" HorizontalOptions="FillAndExpand"/>
+                    <Label x:Name="Skidka" Text="0 руб." HorizontalTextAlignment="Center" StyleClass="strings" HorizontalOptions="FillAndExpand"/>
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal" >
+                    <Label Text="Стоимость техобслуживания:" HorizontalTextAlignment="Center" StyleClass="strings" HorizontalOptions="FillAndExpand"/>
+                    <Label x:Name="Stoim" Text="0 руб." HorizontalTextAlignment="Center" StyleClass="strings" HorizontalOptions="FillAndExpand"/>
+                </StackLayout>
+            </StackLayout>
+            <Button CornerRadius="5" Text="Возврат на главную" WidthRequest="150" HorizontalOptions="FillAndExpand" BackgroundColor="Aquamarine" Clicked="Button_Clicked_1"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

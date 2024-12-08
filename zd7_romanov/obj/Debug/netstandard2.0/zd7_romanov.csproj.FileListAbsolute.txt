@@ -20,3 +20,25 @@ C:\Users\st310-10\source\repos\zd7_romanov\zd7_romanov\obj\Debug\netstandard2.0\
 C:\Users\st310-10\source\repos\zd7_romanov\zd7_romanov\obj\Debug\netstandard2.0\zd7_romanov.csproj.GenerateResource.cache
 C:\Users\st310-10\source\repos\zd7_romanov\zd7_romanov\obj\Debug\netstandard2.0\Button1.xaml.g.cs
 C:\Users\st310-10\source\repos\zd7_romanov\zd7_romanov\obj\Debug\netstandard2.0\Button2.xaml.g.cs
+E:\Work\Projekt\RMP YP\zd7_RomanovYP\zd7_romanov\bin\Debug\netstandard2.0\zd7_romanov.deps.json
+E:\Work\Projekt\RMP YP\zd7_RomanovYP\zd7_romanov\bin\Debug\netstandard2.0\zd7_romanov.dll
+E:\Work\Projekt\RMP YP\zd7_RomanovYP\zd7_romanov\bin\Debug\netstandard2.0\ref\zd7_romanov.dll
+E:\Work\Projekt\RMP YP\zd7_RomanovYP\zd7_romanov\bin\Debug\netstandard2.0\zd7_romanov.pdb
+E:\Work\Projekt\RMP YP\zd7_RomanovYP\zd7_romanov\obj\Debug\netstandard2.0\zd7_romanov.csproj.AssemblyReference.cache
+E:\Work\Projekt\RMP YP\zd7_RomanovYP\zd7_romanov\obj\Debug\netstandard2.0\zd7_romanov.Properties.Resources.resources
+E:\Work\Projekt\RMP YP\zd7_RomanovYP\zd7_romanov\obj\Debug\netstandard2.0\zd7_romanov.csproj.GenerateResource.cache
+E:\Work\Projekt\RMP YP\zd7_RomanovYP\zd7_romanov\obj\Debug\netstandard2.0\zd7_romanov.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Projekt\RMP YP\zd7_RomanovYP\zd7_romanov\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Work\Projekt\RMP YP\zd7_RomanovYP\zd7_romanov\obj\Debug\netstandard2.0\Button1.xaml.g.cs
+E:\Work\Projekt\RMP YP\zd7_RomanovYP\zd7_romanov\obj\Debug\netstandard2.0\Button2.xaml.g.cs
+E:\Work\Projekt\RMP YP\zd7_RomanovYP\zd7_romanov\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Work\Projekt\RMP YP\zd7_RomanovYP\zd7_romanov\obj\Debug\netstandard2.0\RegisterScreen.xaml.g.cs
+E:\Work\Projekt\RMP YP\zd7_RomanovYP\zd7_romanov\obj\Debug\netstandard2.0\mystyles.css.g.cs
+E:\Work\Projekt\RMP YP\zd7_RomanovYP\zd7_romanov\obj\Debug\netstandard2.0\zd7_romanov.AssemblyInfoInputs.cache
+E:\Work\Projekt\RMP YP\zd7_RomanovYP\zd7_romanov\obj\Debug\netstandard2.0\zd7_romanov.AssemblyInfo.cs
+E:\Work\Projekt\RMP YP\zd7_RomanovYP\zd7_romanov\obj\Debug\netstandard2.0\zd7_romanov.csproj.CoreCompileInputs.cache
+E:\Work\Projekt\RMP YP\zd7_RomanovYP\zd7_romanov\obj\Debug\netstandard2.0\zd7_romanov.sourcelink.json
+E:\Work\Projekt\RMP YP\zd7_RomanovYP\zd7_romanov\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Work\Projekt\RMP YP\zd7_RomanovYP\zd7_romanov\obj\Debug\netstandard2.0\zd7_romanov.dll
+E:\Work\Projekt\RMP YP\zd7_RomanovYP\zd7_romanov\obj\Debug\netstandard2.0\refint\zd7_romanov.dll
+E:\Work\Projekt\RMP YP\zd7_RomanovYP\zd7_romanov\obj\Debug\netstandard2.0\zd7_romanov.pdb

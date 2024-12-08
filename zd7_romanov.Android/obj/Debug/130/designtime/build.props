@@ -12,9 +12,9 @@ embedassembliesintoapk=false
 androidlinkmode=none
 androidlinkskip=
 androidsdkbuildtoolsversion=32.0.0
-androidsdkpath=c:\android_sdk\
+androidsdkpath=e:\android\android-sdk\
 androidndkpath=
-javasdkpath=c:\program files (x86)\android\openjdk\jdk-17.0.8.101-hotspot\
+javasdkpath=e:\android\openjdk\jdk-17.0.8.101-hotspot\
 androidsequencepointsmode=none
 xamarinandroidversion=13.2.2-0
 monosymbolarchive=false
@@ -25,11 +25,11 @@ androidgeneratejnimarshalmethods=false
 os=windows_nt
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
-_nugetassetstimestamp=638690787994231393
+_nugetassetstimestamp=638692545912371606
 typemapkind=strings-asm
 androidsupportedabis=arm64-v8a
 armeabi-v7a
 x86
 x86_64
 androidmanifestplaceholders=
-projectfullpath=c:\users\st310-10\source\repos\zd7_romanov\zd7_romanov.android\zd7_romanov.android.csproj
+projectfullpath=e:\work\projekt\rmp yp\zd7_romanovyp\zd7_romanov.android\zd7_romanov.android.csproj

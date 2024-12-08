@@ -25,7 +25,7 @@ namespace zd7_romanov
             {
                 if (this.FindByName<Entry>("log").Text == "ects" && this.FindByName<Entry>("pas").Text == "ects2024")
                 {
-                    await Navigation.PushAsync(new MainPage()); 
+                    await Navigation.PushAsync(new MainPage(0,"")); 
                 }
                 else
                 {

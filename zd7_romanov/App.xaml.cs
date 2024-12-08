@@ -10,7 +10,7 @@ namespace zd7_romanov
         public App()
         {
             InitializeComponent();
-            MainPage= new NavigationPage(new RegisterScreen());
+            MainPage= new NavigationPage(new MainPage(0,""));
         }
 
         protected override void OnStart()
